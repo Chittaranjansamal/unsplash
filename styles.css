@@ -158,9 +158,9 @@ span{
 }
 
 .imgsection img{
-    width: 30%;
+    width: 33%;
     height: auto;
-
+    align-items: center;
 }
 a:hover{
     color: black;
