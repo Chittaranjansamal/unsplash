@@ -158,6 +158,7 @@ span{
 }
 
 .imgsection img{
+    padding: 10px;
     width: 33%;
     height: auto;
     align-items: center;
@@ -175,6 +176,14 @@ li{
 a{
     text-decoration: none;
     color: #767676;
+}
+.footer {
+    display: flex;
+    background-color:#E5E7EB ;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    
 }
 /* .imagesection img{
     display: grid;
